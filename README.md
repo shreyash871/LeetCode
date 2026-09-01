@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shreyash871/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/shreyash871/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shreyash871/LeetCode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyash871/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyash871/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyash871/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
@@ -73,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
