@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyash871/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shreyash871/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyash871/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shreyash871/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
