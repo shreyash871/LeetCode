@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shreyash871/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash871/LeetCode/tree/master/0283-move-zeroes) |
@@ -80,15 +81,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreyash871/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
