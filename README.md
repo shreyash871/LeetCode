@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyash871/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyash871/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyash871/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/shreyash871/LeetCode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyash871/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shreyash871/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
 ## Database
 |  |
 | ------- |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreyash871/LeetCode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
