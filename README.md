@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shreyash871/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash871/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/shreyash871/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash871/LeetCode/tree/master/0283-move-zeroes) |
 ## Tree
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreyash871/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
@@ -115,4 +118,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
