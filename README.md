@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shreyash871/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/shreyash871/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/shreyash871/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shreyash871/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyash871/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shreyash871/LeetCode/tree/master/0735-asteroid-collision) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shreyash871/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shreyash871/LeetCode/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
