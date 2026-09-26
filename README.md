@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyash871/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shreyash871/LeetCode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/shreyash871/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shreyash871/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shreyash871/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyash871/LeetCode/tree/master/0525-contiguous-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shreyash871/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyash871/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shreyash871/LeetCode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/shreyash871/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/shreyash871/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyash871/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyash871/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -190,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/shreyash871/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/shreyash871/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
