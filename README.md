@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shreyash871/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/shreyash871/LeetCode/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shreyash871/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shreyash871/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 ## Database
 |  |
 | ------- |
