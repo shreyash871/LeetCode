@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreyash871/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shreyash871/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/shreyash871/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/shreyash871/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreyash871/LeetCode/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shreyash871/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyash871/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreyash871/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/shreyash871/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash871/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shreyash871/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/shreyash871/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
