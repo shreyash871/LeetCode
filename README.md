@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shreyash871/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyash871/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shreyash871/LeetCode/tree/master/0704-binary-search) |
+| [1014-best-sightseeing-pair](https://github.com/shreyash871/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/shreyash871/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyash871/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyash871/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shreyash871/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shreyash871/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shreyash871/LeetCode/tree/master/0542-01-matrix) |
+| [1014-best-sightseeing-pair](https://github.com/shreyash871/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/shreyash871/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Database
 |  |
